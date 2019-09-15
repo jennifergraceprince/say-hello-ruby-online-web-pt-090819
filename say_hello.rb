@@ -1,4 +1,3 @@
-def say_hello(name*, default)
+def say_hello(name="Ruby Programmer")
   puts "Hello #{name}!"
-  default = "Ruby Programmer"
 end
